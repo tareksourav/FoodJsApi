@@ -37,7 +37,6 @@ const displayFoods = items => {
     }
 }
 
-
 foods()
 
 
